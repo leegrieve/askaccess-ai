@@ -1,0 +1,50 @@
+
+        
+        The year-end closing process in Access Financials involves several important steps to ensure your financial data is accurately carried forward to the new year.
+        
+        
+        1. Complete all transactions for the current year
+           - Process all invoices and credit notes
+           - Record all payments and receipts
+           - Process all journal entries
+        
+        2. Reconcile all accounts
+           - Bank accounts
+           - Accounts receivable
+           - Accounts payable
+           - VAT/Tax accounts
+        
+        3. Verify account balances
+           - Compare to external statements
+           - Investigate and resolve discrepancies
+        
+        4. Backup your data
+           - Create a full system backup
+           - Store backup securely
+        
+        
+        1. Go to Finance > Period End > Year End
+        2. Review the year-end closing checklist
+        3. Run the pre-closing reports:
+           - Trial Balance
+           - Profit & Loss
+           - Balance Sheet
+        4. Save copies of all reports for audit purposes
+        5. Click "Begin Year-End Close"
+        6. Confirm the closing date
+        7. The system will:
+           - Calculate retained earnings
+           - Close income and expense accounts to retained earnings
+           - Carry forward balance sheet account balances
+           - Create opening balances for the new year
+        8. Review the closing results
+        9. Run post-closing reports to verify accuracy
+        
+        
+        1. Set up the new financial year
+        2. Create budgets for the new year
+        3. Review and update recurring transactions
+        4. Archive prior year documents according to retention policy
+        
+        Note: Once the year-end close is complete, it cannot be easily reversed. Ensure all steps are completed accurately before finalizing.
+        

@@ -1,0 +1,25 @@
+
+        
+        Follow these steps to add a new user to your Access Workspace:
+        
+        1. Log in to Access Workspace with administrator privileges
+        2. Navigate to System Administration > User Management
+        3. Click "Add New User"
+        4. Enter the user's details:
+           - First name
+           - Last name
+           - Email address (this will be their username)
+           - Job title (optional)
+           - Department (optional)
+        5. Select the appropriate user role(s)
+        6. Set permissions for each module they need to access
+        7. Click "Create User"
+        
+        The new user will receive an email with instructions to set their password and complete their account setup.
+        
+        
+        - New users are inactive until they complete their account setup
+        - You can edit user permissions at any time
+        - Consider using permission groups for easier management of multiple users
+        - Review user access regularly for security best practices
+        

@@ -1,0 +1,20 @@
+
+        
+        Access Workspace is our cloud-based platform that provides a unified interface for all Access applications. It features:
+        - Modern, responsive design
+        - Accessible from any device with a web browser
+        - Real-time dashboards and analytics
+        - Integrated experience across all Access modules
+        - Regular automatic updates
+        - Subscription-based pricing model
+        
+        Access Dimensions is our traditional on-premises financial management solution. It features:
+        - Comprehensive accounting functionality
+        - Deep customization options
+        - On-premises deployment (can be hosted)
+        - Traditional desktop interface
+        - Perpetual licensing option
+        - Mature, stable platform with decades of development
+        
+        The main difference is that Workspace is a cloud-first platform that integrates multiple applications, while Dimensions is a specialized financial management system that can be deployed on-premises.
+        

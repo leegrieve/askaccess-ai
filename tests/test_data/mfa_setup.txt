@@ -1,0 +1,25 @@
+
+        
+        Multi-Factor Authentication (MFA) adds an extra layer of security to your Access Workspace account.
+        
+        
+        1. Log in to Access Workspace
+        2. Go to My Account > Security Settings
+        3. Click "Enable Multi-Factor Authentication"
+        4. Choose your preferred authentication method:
+           - Mobile app (recommended)
+           - SMS text message
+           - Email
+        5. Follow the specific setup instructions for your chosen method
+        
+        
+        1. Download an authenticator app (Microsoft Authenticator, Google Authenticator, or Authy)
+        2. Scan the QR code displayed in Access Workspace
+        3. Enter the verification code from the app
+        4. Save your backup codes in a secure location
+        
+        
+        - MFA will be required each time you log in from a new device
+        - You can manage your MFA settings at any time from the Security Settings page
+        - If you lose access to your authentication method, you'll need to contact your system administrator
+        

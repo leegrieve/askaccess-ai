@@ -1,0 +1,18 @@
+
+        
+        Access Workspace is a cloud-based solution that works with the following:
+        
+        - Google Chrome (latest 2 versions)
+        - Microsoft Edge (latest 2 versions)
+        - Mozilla Firefox (latest 2 versions)
+        - Safari (latest 2 versions)
+        
+        - Windows 10 or later
+        - macOS 10.14 or later
+        - iOS 14 or later
+        - Android 10 or later
+        
+        - Minimum 4GB RAM
+        - Broadband internet connection (minimum 10Mbps)
+        - Screen resolution of 1280x720 or higher
+        

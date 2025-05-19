@@ -1,0 +1,23 @@
+
+        
+        Exporting Data from Access Financials to Excel
+        
+        Access Financials provides several ways to export data to Excel:
+        
+        Method 1: Direct Export
+        1. Navigate to the report or data view you want to export
+        2. Click the "Export" button in the top right corner
+        3. Select "Excel" from the dropdown menu
+        4. Choose whether to export the current view or all data
+        5. Click "Export" to download the Excel file
+        
+        Method 2: Scheduled Exports
+        For regular exports, you can set up a scheduled export:
+        1. Go to System Administration > Scheduled Tasks
+        2. Click "New Scheduled Task"
+        3. Select "Data Export" as the task type
+        4. Choose the report or data view to export
+        5. Select Excel as the output format
+        6. Set the schedule frequency
+        7. Specify email recipients to receive the export
+        

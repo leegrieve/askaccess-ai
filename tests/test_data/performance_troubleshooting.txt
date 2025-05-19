@@ -1,0 +1,34 @@
+
+        
+        Troubleshooting Slow Performance in Access Workspace
+        
+        If you're experiencing slow performance in Access Workspace, follow these troubleshooting steps:
+        
+        Step 1: Check Your Internet Connection
+        - Run a speed test to verify your internet connection is stable and fast enough
+        - Minimum recommended speed: 10Mbps download, 5Mbps upload
+        - Try connecting to a different network if possible
+        
+        Step 2: Browser Troubleshooting
+        - Clear your browser cache and cookies
+        - Disable browser extensions that might interfere
+        - Try using a different supported browser
+        - Ensure your browser is updated to the latest version
+        
+        Step 3: Check System Resources
+        - Close unnecessary applications to free up memory
+        - Check if your device meets the minimum system requirements
+        - Restart your computer to clear memory and temporary files
+        
+        Step 4: Application-Specific Checks
+        - Reduce the date range for reports and data views
+        - Simplify complex dashboards by removing widgets
+        - Check if you're running resource-intensive processes (like month-end closing)
+        
+        Step 5: Contact Support
+        If you've tried all the above steps and still experience slow performance:
+        - Contact Access Support with details about the issue
+        - Include information about when the problem occurs
+        - Note any error messages you receive
+        - Be prepared to share your browser console logs if requested
+        

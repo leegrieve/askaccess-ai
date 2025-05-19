@@ -1,0 +1,35 @@
+
+        
+        The HR module in Access Workspace offers a comprehensive suite of reports to help you manage your workforce effectively.
+        
+        
+        - Employee Directory
+        - Employee Demographics
+        - Length of Service Analysis
+        - Skills Matrix
+        - Training Compliance
+        - Performance Review Status
+        - Absence Analysis
+        
+        
+        - Open Positions Summary
+        - Recruitment Pipeline
+        - Time to Hire Analysis
+        - Source Effectiveness
+        - Cost per Hire
+        
+        
+        - Salary Benchmarking
+        - Compensation Review Status
+        - Bonus Allocation
+        - Total Reward Statements
+        
+        
+        - Required Training Status
+        - Certification Expiry
+        - Working Time Compliance
+        - Diversity and Inclusion Metrics
+        
+        
+        You can also create custom reports using the Report Builder tool. Access the Report Builder from the HR module by clicking Reports > Create Custom Report.
+        

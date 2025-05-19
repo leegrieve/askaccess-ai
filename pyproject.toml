@@ -1,0 +1,26 @@
+[project]
+name = "askaccess"
+version = "0.1.0"
+description = "AI assistant for answering internal employee questions and customer queries"
+authors = [
+    {name = "Access Group"}
+]
+readme = "README.md"
+requires-python = "^3.9"
+dependencies = [
+    "fastapi[standard] (>=0.115.12,<0.116.0)",
+    "psycopg[binary] (>=3.2.9,<4.0.0)",
+    "langchain (>=0.3.25,<0.4.0)",
+    "langchain-openai (>=0.3.17,<0.4.0)",
+    "langchain-community (>=0.3.24,<0.4.0)",
+    "faiss-cpu (>=1.11.0,<2.0.0)",
+    "python-multipart (>=0.0.20,<0.0.21)",
+    "python-dotenv (>=1.1.0,<2.0.0)",
+    "pydantic (>=2.11.4,<3.0.0)",
+    "tiktoken (>=0.9.0,<0.10.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

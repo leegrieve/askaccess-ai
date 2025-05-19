@@ -1,0 +1,109 @@
+[
+  {
+    "query": "How do I reset my password?",
+    "expected_answer_contains": [
+      "reset",
+      "password",
+      "account"
+    ],
+    "source_document": "password_reset.txt",
+    "difficulty": "easy"
+  },
+  {
+    "query": "What are the system requirements for Access Workspace?",
+    "expected_answer_contains": [
+      "system",
+      "requirements",
+      "browser",
+      "operating system"
+    ],
+    "source_document": "system_requirements.txt",
+    "difficulty": "medium"
+  },
+  {
+    "query": "How do I export data from Access Financials to Excel?",
+    "expected_answer_contains": [
+      "export",
+      "data",
+      "Excel",
+      "Financials"
+    ],
+    "source_document": "data_export.txt",
+    "difficulty": "medium"
+  },
+  {
+    "query": "What is the difference between Access Workspace and Access Dimensions?",
+    "expected_answer_contains": [
+      "difference",
+      "Workspace",
+      "Dimensions"
+    ],
+    "source_document": "product_comparison.txt",
+    "difficulty": "hard"
+  },
+  {
+    "query": "How do I set up multi-factor authentication?",
+    "expected_answer_contains": [
+      "multi-factor",
+      "authentication",
+      "setup",
+      "security"
+    ],
+    "source_document": "mfa_setup.txt",
+    "difficulty": "medium"
+  },
+  {
+    "query": "What are the steps to reconcile bank statements in Access Financials?",
+    "expected_answer_contains": [
+      "reconcile",
+      "bank",
+      "statements",
+      "Financials"
+    ],
+    "source_document": "bank_reconciliation.txt",
+    "difficulty": "hard"
+  },
+  {
+    "query": "How do I add a new user to Access Workspace?",
+    "expected_answer_contains": [
+      "add",
+      "user",
+      "Workspace",
+      "permissions"
+    ],
+    "source_document": "user_management.txt",
+    "difficulty": "easy"
+  },
+  {
+    "query": "What reports are available in the HR module?",
+    "expected_answer_contains": [
+      "reports",
+      "HR",
+      "module"
+    ],
+    "source_document": "hr_reports.txt",
+    "difficulty": "medium"
+  },
+  {
+    "query": "How do I troubleshoot slow performance in Access Workspace?",
+    "expected_answer_contains": [
+      "troubleshoot",
+      "slow",
+      "performance",
+      "Workspace"
+    ],
+    "source_document": "performance_troubleshooting.txt",
+    "difficulty": "hard"
+  },
+  {
+    "query": "What is the process for year-end closing in Access Financials?",
+    "expected_answer_contains": [
+      "year-end",
+      "closing",
+      "Financials",
+      "process"
+    ],
+    "source_document": "year_end_closing.txt",
+    "difficulty": "hard"
+  }
+]

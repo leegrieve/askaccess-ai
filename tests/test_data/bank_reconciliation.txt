@@ -1,0 +1,31 @@
+
+        
+        Bank Statement Reconciliation in Access Financials
+        
+        Follow these steps to reconcile bank statements in Access Financials:
+        
+        Step 1: Prepare Your Bank Statement
+        Gather your bank statement for the period you want to reconcile. Note the opening and closing balances.
+        
+        Step 2: Access the Bank Reconciliation Module
+        1. Go to Banking > Bank Reconciliation
+        2. Select the bank account to reconcile
+        3. Enter the statement date and closing balance
+        
+        Step 3: Match Transactions
+        1. Review the list of unreconciled transactions
+        2. Match each transaction to your bank statement
+        3. Click the checkbox next to each matching transaction
+        4. For transactions that appear on your bank statement but not in the system, click "Add Transaction"
+        
+        Step 4: Finalize Reconciliation
+        1. Verify that the difference between the statement balance and reconciled balance is zero
+        2. If there's a discrepancy, investigate and resolve it before proceeding
+        3. Once balanced, click "Complete Reconciliation"
+        4. Print or save the reconciliation report for your records
+        
+        Step 5: Post-Reconciliation Tasks
+        1. Review any outstanding items and follow up as needed
+        2. Investigate any unusual transactions or discrepancies
+        3. Update cash flow forecasts based on the reconciled data
+        
