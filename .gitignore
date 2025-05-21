@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore data directories
+data/query_logs/
+data/uploads/
+
+# Ignore environment files
+.env
